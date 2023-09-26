@@ -1,9 +1,9 @@
 package com.example.dz6_semestr4;
 
-public class TestBean {
+public class HelloBean {
     private String name;
 
-    public TestBean(String name) {
+    public HelloBean(String name) {
         this.name = name;
     }
 
